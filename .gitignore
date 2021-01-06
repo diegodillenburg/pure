@@ -1,2 +1,5 @@
 # Ignores Vim swap files
 *.swp
+
+# Ignores ctags
+tags
